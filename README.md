@@ -1,10 +1,5 @@
 # tribody-orbits
 homework
-"""
-Created on Tue Jun 12 23:21:32 2018
-
-@author: Huang
-"""
 
 import numpy as np
 import matplotlib.pylab as pl
